@@ -31,3 +31,4 @@ Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiaSirio&show_icons=true&count_private=true&theme=radical" />
 </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TiaSirio&theme=radical&background=000000)](https://git.io/streak-stats)
