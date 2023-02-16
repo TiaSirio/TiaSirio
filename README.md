@@ -29,8 +29,8 @@ Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiaSirio&show_icons=true&count_private=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiaSirio&show_icons=true&count_private=true&theme=radical)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaSirio&layout=compact&langs_count=8&count_private=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaSirio&layout=compact&langs_count=3&count_private=true&theme=radical&hide=vhdl)" />
 </a>
