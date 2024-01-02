@@ -2,7 +2,7 @@
 
 ## About me
 
-Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
+Computer Engineer, Studied Computer Science and Engineering @ Polimi <br/>
 
 ## Languages
 
