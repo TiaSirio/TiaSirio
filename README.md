@@ -3,6 +3,7 @@
 ## About me
 
 Computer Engineer
+<br/>
 Studied Computer Science and Engineering @ Polimi <br/>
 
 ## Languages
