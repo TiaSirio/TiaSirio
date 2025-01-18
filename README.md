@@ -2,7 +2,7 @@
 
 ## About me
 
-Computer Engineer
+Software Engineer - Passionate about programming, artificial intelligence, and video games.
 <br/>
 Studied Computer Science and Engineering @ Polimi <br/>
 
